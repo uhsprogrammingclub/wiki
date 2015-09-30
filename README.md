@@ -4,7 +4,7 @@ Welcome to the UHS Software Development Club github account.
 
 ## Useful links
 
-# projecteuler.com
-# codeacademy.com
+### http://www.projecteuler.com
+### http://www.codeacademy.com
 
 
